@@ -11,3 +11,5 @@ function mostrarData(info) {
     document.getElementById('phone').innerHTML = info[0].phone
     document.getElementById('firstName').innerHTML = info[0].name.split(' ')[0]
 }
+
+function a(){}
